@@ -38,7 +38,7 @@ with open("requirements.txt", encoding="utf-8") as r:
 
 
 setup(
-    name='googletrans-py',
+    name='googletransjs',
     version=get_version(),
     description=get_description(),
     long_description=get_readme(),
